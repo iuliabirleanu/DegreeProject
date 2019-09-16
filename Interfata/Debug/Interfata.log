@@ -1,0 +1,28 @@
+﻿  MyForm.cpp
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1948): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1949): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1950): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1951): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1952): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1953): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1954): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1955): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1956): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1957): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1958): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1959): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1960): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1961): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1962): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1963): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1964): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1965): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1966): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1967): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1968): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1969): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\MyForm.h(1970): warning C4129: '.': unrecognized character escape sequence
+c:\users\lia\documents\visual studio 2015\projects\retele_colorate\interfata\interfata\myform.h(1825): warning C4715: 'Interfata::MyForm::esteLiberaS3': not all control paths return a value
+  MyForm.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  Interfata.vcxproj -> C:\Users\Lia\Documents\Visual Studio 2015\Projects\Retele_colorate\Interfata\Debug\Interfata.exe
+  Interfata.vcxproj -> C:\Users\Lia\Documents\Visual Studio 2015\Projects\Retele_colorate\Interfata\Debug\Interfata.pdb (Partial PDB)
